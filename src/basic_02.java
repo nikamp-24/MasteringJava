@@ -1,6 +1,4 @@
-import java.sql.SQLOutput;
-
-public class basic_2 {
+public class basic_02 {
     public static void main(String[] args) {
 //        addition
         int a = 74;
