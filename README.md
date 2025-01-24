@@ -5,11 +5,11 @@ A comprehensive collection of Java exercises and practice problems, categorized 
 ## Project Structure
 
 MasteringJava-intellij/
-├── .idea/                        # IntelliJ IDEA configuration files
-├── src/                          # Contains all Java source code files
-│   ├── Home/                     # Home directory for exercises/projects
-│   │   ├── JavaExercises/        # Java exercises directory
-│   ├── JavaBasics/               # Basics of Java
+ .idea/                        # IntelliJ IDEA configuration files
+       src/                          # Contains all Java source code files
+        Home/                     # Home directory for exercises/projects
+            JavaExercises/        # Java exercises directory
+           JavaBasics/               # Basics of Java
 │   │   ├── BasicPartI/           # First part of basics
 │   │   ├── BasicPartII/          # Second part of basics
 │   │   ├── Methods/              # Methods in Java
