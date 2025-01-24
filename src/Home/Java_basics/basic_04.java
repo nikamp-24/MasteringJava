@@ -1,3 +1,4 @@
+package Home.Java_basics;
 
 import java.util.Scanner;
 public class basic_04 {

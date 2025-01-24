@@ -1,3 +1,5 @@
+package Home.Java_basics;
+
 public class basic_25 {
     public static void main(String[] args) {
         int amount = 0 ;

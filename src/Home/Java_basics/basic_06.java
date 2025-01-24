@@ -1,3 +1,5 @@
+package Home.Java_basics;
+
 public class basic_06 {
     public static void main(String[] args) {
         System.out.println("   J    a   v     v  a");
