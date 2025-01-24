@@ -53,11 +53,11 @@ MasteringJava-intellij/
 │   │   ├── GenericMethods/       # Generic methods
 │   │   ├── UnitTests/            # Unit testing
 │   ├── Algorithms/               # Algorithm-related topics
-│   │   ├── Search/               # Search algorithms
-│   │   ├── Sorting/              # Sorting algorithms
-│   ├── RegularExpressions/       # Regular expressions
+│   │   ├── Search               # Search algorithms
+│   │   ├── Sorting           # Sorting algorithms
+│   ├── RegularExpressions    # Regular expressions
 │   │   ├── RegularExpressionHome/# Regular expressions basics
-│   ├── JavaFxExercises/          # JavaFX exercises
+│   ├── JavaFxExercises        # JavaFX exercises
 │   │   ├── JavaFxExercisesHome/  # JavaFX exercises home
 │   ├── JavaProjects/             # Java project examples
 │   │   ├── BeginnerProjects/     # Beginner-level Java projects
