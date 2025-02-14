@@ -21,10 +21,7 @@ public class basic_69 {
                     sum += temp % 10;
                     temp /= 10;
                 }
-
-
                 System.out.println("Sum of digits: " + sum);
-
 
                 String sumString = Integer.toString(sum);
                 System.out.print("Digits in English: ");

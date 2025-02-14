@@ -11,7 +11,6 @@ public class basic_53 {
                 System.out.print("Enter a string (minimum 3 characters): ");
                 String originalString = scanner.nextLine();
 
-
                 if (originalString.length() >= 3) {
 
                     String lastThree = originalString.substring(originalString.length() - 3);
@@ -21,7 +20,6 @@ public class basic_53 {
 
                     System.out.println("The string length must be at least 3 characters.");
                 }
-
         }
 
     }

@@ -1,7 +1,7 @@
 package Home.Java_basics;
 
 
-import static java.lang.System.getSecurityManager;
+//import static java.lang.System.getSecurityManager;
 
 public class basic_70 {
     public static void main(String[] args) {
@@ -15,8 +15,8 @@ public class basic_70 {
 
 //        check whether System security manager is installed on device
 //        it is depricated and no longer in use due to modern security modela
-        System.out.println("System security interface:");
-        System.out.println(getSecurityManager());
+//        System.out.println("System security interface:");
+//        System.out.println(getSecurityManager());
 
 //        Environment variables
 //         Display the value of the specified environment variable "PATH"

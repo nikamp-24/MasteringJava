@@ -3,8 +3,7 @@ package Home.Java_basics;
 public class basic_57 {
     public static void main(String[] args) {
 
-
-                String str1 = "";
+                String str1 = "POOJA";
 
                 int len = str1.length();
 

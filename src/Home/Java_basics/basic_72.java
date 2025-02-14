@@ -2,7 +2,7 @@ package Home.Java_basics;
 
 public class basic_72 {
     public static void main(String[] args) {
-//        Count Even and Odd in Array in given array
+//        Count Even and Odd in given array
 
         int[] nums = { 1, 2, 3, 4, 5, 6, 7, 8} ;
 
