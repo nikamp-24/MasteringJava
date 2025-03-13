@@ -3,7 +3,6 @@ package Home.Java_basics;
 import java.util.Arrays;
 
 public class basic_75 {
-// arrange first odd numbers and then even numbers in a given array
         public static void rearrangeArray(int[] arr) {
             int[] temp = new int[arr.length];
             int index = 0;
