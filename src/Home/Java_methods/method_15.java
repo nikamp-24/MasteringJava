@@ -12,7 +12,10 @@ public class method_15 {
     public static void showDateTime(){
         LocalDateTime now = LocalDateTime.now();
 
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("EEEE MM dd , yyyy hh:mm:ss");
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("EEEE dd-MM-yyyy hh:mm:ssa");
+
+        String formattedDateTime = now.format(formatter);
+        System.out.println("Current date and time: "+formattedDateTime);
 
 
     }
