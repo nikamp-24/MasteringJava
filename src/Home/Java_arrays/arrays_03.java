@@ -1,7 +1,9 @@
 package Home.Java_arrays;
 
 public class arrays_03 {
+
 //    Find the Index of a Specific Element
+
     public static void main(String[] args) {
         int[] arr = {2, 4, 5, 6, 2, 1};
         int target = 6;

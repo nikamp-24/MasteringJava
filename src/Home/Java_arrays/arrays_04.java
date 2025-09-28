@@ -4,7 +4,8 @@ import java.util.Arrays;
 
 public class arrays_04 {
 
-    //    reverse an array without using another array
+    // reverse an array without using another array
+
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5};
         int temp;

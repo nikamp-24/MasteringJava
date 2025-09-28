@@ -8,11 +8,11 @@ public class FactRecur_05 {
         System.out.print("Enter n: ");
         int n = sc.nextInt();
 
-        System.out.print( printSum(n));
+        System.out.print( fact(n));
     }
 
-    private static int printSum(int n) {
+    private static int fact(int n) {
         if (n==0)return 1;
-        return n* printSum(n-1);
+        return n* fact(n-1);
     }
 }
