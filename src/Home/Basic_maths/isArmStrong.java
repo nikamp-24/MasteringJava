@@ -14,8 +14,10 @@ public class isArmStrong {
             sum += lastDigit * lastDigit * lastDigit;
             num/=10;
         }
-        if (sum == duplicate) System.out.print("The given number is armstrong number");
-        else System.out.print("The given number is not armstrong number");
+        if (sum == duplicate)
+            System.out.print("The given number is armstrong number");
+        else
+            System.out.print("The given number is not armstrong number");
         sc.close();
     }
 }
