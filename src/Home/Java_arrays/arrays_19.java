@@ -2,6 +2,7 @@ package Home.Java_arrays;
 
 public class arrays_19 {
     public static void main(String[] args) {
+//        Find maximum difference (arr[j] - arr[i])
         int arr[] = {1, 2, 3, 4, 5, 6};
 
         int maxDiff = arr[1] - arr[0];
